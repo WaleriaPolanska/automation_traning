@@ -46,7 +46,7 @@
                 ClientName = "Sabina Jaicuk",
                 CVV = 122
             };
-            var array = new[] {card1, card2, card3, card4, card5};
+            var array = new [] {card1, card2, card3, card4, card5};
             
             foreach (var el in array)
             {
